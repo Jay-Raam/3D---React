@@ -1,0 +1,277 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 443,
+      "max": [0.7136240005493164, 0.06099800020456314, 1.2189589738845825],
+      "min": [-0.7136240005493164, -0.1137399971485138, 0.9817209839820862],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5316,
+      "componentType": 5126,
+      "count": 443,
+      "max": [0.9972255825996399, 0.9993959665298462, 0.7898184061050415],
+      "min": [-0.9987676739692688, -0.9998957514762878, -0.9971790313720703],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 443,
+      "max": [0.7851150035858154, 1.987894058227539],
+      "min": [0.12387900054454803, 1.1072499752044678],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1050,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10632,
+      "componentType": 5126,
+      "count": 1691,
+      "max": [0.6246820092201233, 0.16850699484348297, 2.0322329998016357],
+      "min": [-0.6246820092201233, -0.2737700045108795, 0.0377190001308918],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30924,
+      "componentType": 5126,
+      "count": 1691,
+      "max": [0.9984511137008667, 0.9997718930244446, 0.9999884963035583],
+      "min": [-0.9984506368637085, -0.9999642372131348, -1.0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3544,
+      "componentType": 5126,
+      "count": 1691,
+      "max": [0.9972969889640808, 1.9962550401687622],
+      "min": [0.0030930000357329845, 1.002689003944397],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4200,
+      "componentType": 5125,
+      "count": 6474,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51216,
+      "componentType": 5126,
+      "count": 444,
+      "max": [0.8198519945144653, 0.05597800016403198, 1.2189589738845825],
+      "min": [-0.8198519945144653, -0.1399269998073578, 1.036463975906372],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56544,
+      "componentType": 5126,
+      "count": 444,
+      "max": [0.8933225870132446, 0.9981904029846191, 0.9419501423835754],
+      "min": [-0.8933253288269043, -0.9880456328392029, -0.9831740260124207],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17072,
+      "componentType": 5126,
+      "count": 444,
+      "max": [0.7851150035858154, 1.987894058227539],
+      "min": [0.12387900054454803, 1.1072499752044678],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 30096,
+      "componentType": 5125,
+      "count": 1050,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tigerar1 (https://sketchfab.com/allanromanreyes)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/tony-stark-iron-man-civil-war-2a5a5df7d300493cb7e5ef3f833ff9f4",
+      "title": "Tony Stark Iron Man (Civil War)"
+    },
+    "generator": "Sketchfab-16.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 34296,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20624,
+      "byteOffset": 34296,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 61872,
+      "byteOffset": 54920,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 116792,
+      "uri": "iron.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/MFF_iOS_HER_TST_CWA_A_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "MFF_iOS_HER_TST_CWA_A",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9921745770996335
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "MFF_iOS_HER_TST_CWA_B",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9921745770996335
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "MFF_iOS_HER_TST_CWA_W",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9921745770996335
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "matrix": [
+        1.0, 0.0, 0.0, 0.0, 0.0, 2.220446049250313e-16, -1.0, 0.0, 0.0, 1.0,
+        2.220446049250313e-16, 0.0, 0.0, 0.0, 0.0, 1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [2, 3, 4],
+      "name": "M-FF_iOS_HERO_Tony_Stark_Iron_Man_Civil_War.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+canvas {
+  height: 100vh !important;
+  width: 600px !important;
+  position: relative;
+  top: 120px;
+}
+
+@media (max-width: 768px) {
+  .text {
+    text-align: center;
+  }
+
+  .three-d {
+    width: 100%;
+    text-align: center;
+  }
+
+  canvas {
+    height: 66vh !important;
+    width: 100% !important;
+    top: 103px;
+  }
+}
