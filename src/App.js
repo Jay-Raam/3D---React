@@ -5,6 +5,7 @@ import Thor from "./components/Six";
 import Challa from "./components/Two";
 import Deadpool from "./components/Three";
 import Stange from "./components/Five";
+import Navbar from "./components/navbar";
 // import { isMobile } from "react-device-detect";
 
 const Data = [
@@ -56,6 +57,7 @@ function App() {
   return (
     <>
       <div className="flex justify-center items-center gap-6 flex-wrap max-w-[1200px] mx-auto my-0">
+        <Navbar />
         {Data.map((item, index) => (
           <div
             key={index}
